@@ -48,7 +48,7 @@ body{
 }
 .card .details{
     position: absolute;
-    bottom: -475px;
+    bottom: -380px;
     left: 5px;
     padding: 30px;
     width: 100%;
@@ -124,6 +124,7 @@ body{
     max-width: 100%;
     overflow: hidden;
     border-radius: 50%;
+    width: 60px;
 }
 .card .details .tickets h7{
     color: rgb(114, 12, 12);
