@@ -121,6 +121,7 @@ body{
 .card .details .production img{
     position: relative;
     margin-top: 10px;
+    margin-bottom: 10px;
     max-width: 100%;
     overflow: hidden;
     border-radius: 50%;
